@@ -18,3 +18,6 @@ Here I  implementated the K-Means algorithm in Python on the Online Retail case 
 3. Cluster 0 represents High-value Customers who Spends a lot and have high recency. 
 
 4. Cluster 2 represents Low Valued customers who spend less and who visit less and places fewer orders. 
+
+**Credit:**
+Dataset Source: https://archive.ics.uci.edu/ml/datasets/online+retail 
