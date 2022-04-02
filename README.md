@@ -1,5 +1,6 @@
 # Customer-Segmentation-Practice_Clustering-ML-
 Here I  implementated the K-Means algorithm in Python on the Online Retail case study for Customer Segmentation. 
+
 **Steps Involved:**
 1 Importing Libraries
 2 Loading and Analysing the DATA
