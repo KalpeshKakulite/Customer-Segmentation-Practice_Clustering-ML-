@@ -2,8 +2,8 @@
 Here I  implementated the K-Means algorithm in Python on the Online Retail case study for Customer Segmentation. 
 
 **Steps Involved:**
-1 Importing Libraries
-2 Loading and Analysing the DATA
+1. Importing Libraries
+2. Loading and Analysing the DATA
 3. Data Cleaning & Manipulation
 4. Handling Outliers
 5. Handling Null Values
